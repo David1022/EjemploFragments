@@ -3,12 +3,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#FFBBBBBB" >
+    android:background="#FFFFFF" >
 
     <TextView
         android:id="@+id/TxtDetalle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:text="No se esta mostrando ningun texto"
         android:textSize="50sp"/>
 
 </LinearLayout>
